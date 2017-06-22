@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<patient
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='patientSchema.xsd'>
+    <patients>
+        <img></img>
+        <filecode></filecode>
+        <firstname></firstname>
+        <lastname></lastname>
+        <dob></dob>
+        <gender></gender>
+        <address>
+            <street></street>
+            <city></city>
+        </address>
+        <phone>
+            <cell></cell>
+            <home></home>
+            <work></work>
+        </phone>
+        <email></email>
+        <medicalhistory>e.g: any surgery, taking any pills</medicalhistory>
+        <allergies>e.g:drug allergies</allergies>
+        <bloodgroup></bloodgroup>
+        <maritalstatus></maritalstatus>
+        <spousename>*SPOUSE NAME*</spousename>
+        <spousenamem>
+            <firstname></firstname>
+            <lastname></lastname>
+        </spousenamem>
+        <occupation field=""></occupation>
+        <Employer>*EMPLOYER*</Employer>
+        <employ>
+            <firstname></firstname>
+            <lastname></lastname>
+            <phone>
+                <cell></cell>
+                <home></home>
+                <work></work>
+            </phone>
+            <address>
+                <street></street>
+                <city></city>
+            </address>
+        </employ>
+        <emergency>*EMERGENCY*</emergency>
+        <emergence>
+            <firstname></firstname>
+            <lastname></lastname>
+            <address>
+                <street></street>
+                <city></city>
+            </address>
+            <phone>
+                <cell></cell>
+                <home></home>
+                <work></work>
+            </phone>
+            <email></email>
+        </emergence>
+    </patients>
+    <patients>
+        <img></img>
+        <filecode></filecode>
+        <firstname></firstname>
+        <lastname></lastname>
+        <dob></dob>
+        <gender></gender>
+        <address>
+            <street></street>
+            <city></city>
+        </address>
+        <phone>
+            <cell></cell>
+            <home></home>
+            <work></work>
+        </phone>
+        <email></email>
+        <medicalhistory>e.g: any surgery, taking any pills</medicalhistory>
+        <allergies>e.g:drug allergies</allergies>
+        <bloodgroup></bloodgroup>
+        <maritalstatus></maritalstatus>
+        <spousename>*SPOUSE NAME*</spousename>
+        <spousenamem>
+            <firstname></firstname>
+            <lastname></lastname>
+        </spousenamem>
+        <occupation field=""></occupation>
+        <Employer>*EMPLOYER*</Employer>
+        <employ>
+            <firstname></firstname>
+            <lastname></lastname>
+            <phone>
+                <cell></cell>
+                <home></home>
+                <work></work>
+            </phone>
+            <address>
+                <street></street>
+                <city></city>
+            </address>
+        </employ>
+        <emergency>*EMERGENCY*</emergency>
+        <emergence>
+            <firstname></firstname>
+            <lastname></lastname>
+            <address>
+                <street></street>
+                <city></city>
+            </address>
+            <phone>
+                <cell></cell>
+                <home></home>
+                <work></work>
+            </phone>
+            <email></email>
+        </emergence>
+    </patients>
+    <patients>
+        <img></img>
+        <filecode></filecode>
+        <firstname></firstname>
+        <lastname></lastname>
+        <dob></dob>
+        <gender></gender>
+        <address>
+            <street></street>
+            <city></city>
+        </address>
+        <phone>
+            <cell></cell>
+            <home></home>
+            <work></work>
+        </phone>
+        <email></email>
+        <medicalhistory>e.g: any surgery, taking any pills</medicalhistory>
+        <allergies>e.g:drug allergies</allergies>
+        <bloodgroup></bloodgroup>
+        <maritalstatus></maritalstatus>
+        <spousename>*SPOUSE NAME*</spousename>
+        <spousenamem>
+            <firstname></firstname>
+            <lastname></lastname>
+        </spousenamem>
+        <occupation field=""></occupation>
+        <Employer>*EMPLOYER*</Employer>
+        <employ>
+            <firstname></firstname>
+            <lastname></lastname>
+            <phone>
+                <cell></cell>
+                <home></home>
+                <work></work>
+            </phone>
+            <address>
+                <street></street>
+                <city></city>
+            </address>
+        </employ>
+        <emergency>*EMERGENCY*</emergency>
+        <emergence>
+            <firstname></firstname>
+            <lastname></lastname>
+            <address>
+                <street></street>
+                <city></city>
+            </address>
+            <phone>
+                <cell></cell>
+                <home></home>
+                <work></work>
+            </phone>
+            <email></email>
+        </emergence>
+    </patients>
+
+</patient>

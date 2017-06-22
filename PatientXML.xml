@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<patient
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='PatientSchema.xsd'>
+    <patients>
+        <img>john.jpg</img>
+        <filecode>A0001</filecode>
+        <firstname>John</firstname>
+        <lastname>Doe</lastname>
+        <dob>16/02/1998</dob>
+        <gender>Male</gender>
+       
+        <address>
+            <street>Royal Road</street>
+            <city>Goodlands</city>
+        </address>
+        <phone>
+            <cell>59781548</cell>
+            <home>2836484</home>
+            <work>4581068</work>
+        </phone>
+        <email>John@deo.com</email>
+        <medicalhistory>Tumor cured by Dr Allen Black</medicalhistory>
+        <allergies>No allergies</allergies>
+        <bloodgroup>AB-</bloodgroup>
+        <maritalstatus>Single</maritalstatus>
+        <spousename>*SPOUSE NAME*</spousename>
+        <spousenamem>
+            <firstname></firstname>
+            <lastname></lastname>
+        </spousenamem>
+        <occupation field="education">Teacher</occupation>
+        <Employer>*EMPLOYER*</Employer>
+        <employ>
+            
+            <firstname>Eriksen</firstname>
+            <lastname>Marshall</lastname>
+            <phone>
+                <cell>58907926</cell>
+                <home>2893648</home>
+                <work>2785149</work>
+            </phone>
+            <address>
+                <street>T-shirt Road</street>
+                <city>Ebene</city>
+            </address>
+        </employ>
+        <emergency>*EMERGENCY*</emergency>
+        <emergence>
+            <firstname>Saget</firstname>
+            <lastname>Bob</lastname>
+            <address>
+                <street>City Road</street>
+                <city>Port Louis</city>
+            </address>
+            <phone>
+                <cell>57598345</cell>
+                <home>2836789</home>
+                <work>2548468</work>
+            </phone>
+            <email>Bob@sa.com</email>
+            <email>Port@teacher.com</email>
+        </emergence>
+
+    </patients>
+    <patients>
+        <img>penny.jpg</img>
+        <filecode>M8795</filecode>
+        <firstname>Cooper</firstname>
+        <lastname>Penny</lastname>
+        <dob>03/03/1995</dob>
+        <gender>Female</gender>
+        
+        <address>
+            <street>Arya Mandir Road</street>
+            <city>Rose Hill</city>
+        </address>
+        <phone>
+            <cell>57198029</cell>
+            <home>2497681</home>
+            <work>4596321</work>
+        </phone>
+        <email>Ati@bla.com</email>
+        <email>Coo@gmail.com</email>
+        <medicalhistory>No medical history</medicalhistory>
+        <allergies>peanuts</allergies>
+        <bloodgroup>O-</bloodgroup>
+        <maritalstatus>Married</maritalstatus>
+        <spousename>*SPOUSE NAME*</spousename>
+        <spousenamem>
+            <firstname>Cooper</firstname>
+            <lastname>Sheldon</lastname>
+        </spousenamem>
+        <occupation field="health">Nurse</occupation>
+        <Employer>*EMPLOYER*</Employer>
+        <employ>
+            <firstname>Wolowitz</firstname>
+            <lastname>Robin</lastname>
+            <phone>
+                <cell>58269861</cell>
+                <home>2836948</home>
+                <work>2464789</work>
+            </phone>
+            <address>
+                <street>Atlas street</street>
+                <city>Plain Verte</city>
+            </address>
+        </employ>
+        
+        <emergency>*EMERGENCY*</emergency>
+        <emergence>
+            <firstname>Cooper</firstname>
+            <lastname>Tom</lastname>
+            <address>
+                <street>Point Road</street>
+                <city>Point Aux Sable</city>
+            </address>
+            <phone>
+                <cell>57019706</cell>
+                <cell>54494584</cell>
+                <home>2458364</home>
+                <work>2157977</work>
+            </phone>
+            <email>Tom@gm.com</email>
+        </emergence>
+    </patients>
+    
+</patient>
